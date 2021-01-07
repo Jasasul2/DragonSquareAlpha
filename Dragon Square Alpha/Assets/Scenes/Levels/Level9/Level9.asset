@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: Level9
+  m_EditorClassIdentifier: 
+  lName: The King of Balls
+  description: Where there's a will, there's a way
+  lImage: {fileID: 21300000, guid: 214a5e9c950cf664d9029a340a70ff1f, type: 3}
+  wayPointLimits: 0e0000001000000011000000
+  dragoinRewards: 140000001e00000028000000
+  thoughts: '"This one looks different..."'
+  smalHint: '"I think I should save the red fruit for the end"'
+  hugeHint: '"If I manage to eat all the essences, I might be able to take a hit
+    from this monster"'
+  firstWaypointToPlace: {x: -7, y: -3.5}

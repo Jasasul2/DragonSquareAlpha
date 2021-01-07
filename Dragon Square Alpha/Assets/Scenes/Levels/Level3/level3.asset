@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: level3
+  m_EditorClassIdentifier: 
+  lName: Dangerous Taste
+  description: What doesn't kill you makes you stronger
+  lImage: {fileID: 21300000, guid: 96ee192f2f94800428b1bdcadc61f028, type: 3}
+  wayPointLimits: 030000000400000005000000
+  dragoinRewards: 030000000900000012000000
+  thoughts: '"What does this red fruit do? "'
+  smalHint: '"I should eat the essence first"'
+  hugeHint: '"I might want to use the diagonals" '
+  firstWaypointToPlace: {x: -3, y: -2.5}

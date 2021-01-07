@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon6
+  m_EditorClassIdentifier: 
+  skinName: Skelly
+  dragoinPrice: 60
+  baseSprites:
+  - {fileID: 21300000, guid: 36c94d9526844ed4f8fada06e36d9285, type: 3}
+  - {fileID: 21300000, guid: 9252f4ebcafc44145a3383677559fad7, type: 3}
+  - {fileID: 21300000, guid: fa6d02ab1ee215e4f88e296cb3390475, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: 3ecbfd5a1220c9945a306e5286adb3b7, type: 3}
+  - {fileID: 21300000, guid: 16a7a601502083d47b4df9ac00abf261, type: 3}
+  - {fileID: 21300000, guid: b8518cd29b68d2e49966393f75c692e2, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: cb1c3d29fc5be504caa46de31b6a7edc, type: 3}

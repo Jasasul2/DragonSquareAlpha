@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon16
+  m_EditorClassIdentifier: 
+  skinName: 'In a pickle '
+  dragoinPrice: 42
+  baseSprites:
+  - {fileID: 21300000, guid: 68faeab8b771ff14bac6ebc9e2e66e37, type: 3}
+  - {fileID: 21300000, guid: 2b64978a367ab4441bbaffb0c0155539, type: 3}
+  - {fileID: 21300000, guid: 73aa30997fb93324ab0792506e9abdd1, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: ffb3e72f2a5eebc4085cde6b78c2fe37, type: 3}
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}

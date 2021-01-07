@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon20
+  m_EditorClassIdentifier: 
+  abilities: 02000000
+  skinName: Drago Picasso
+  dragoinPrice: 370
+  baseSprites:
+  - {fileID: 21300000, guid: 45a933b6498de324c88f61421cd0370f, type: 3}
+  - {fileID: 21300000, guid: 2b6483d8d93aac4479914eda9ac28661, type: 3}
+  - {fileID: 21300000, guid: c97d19f7e6070b24dab802451891ed81, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: 2107dc18d8429244baed912ca3fea227, type: 3}
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: 7ad2970abafa5054cb75ff615614889a, type: 3}

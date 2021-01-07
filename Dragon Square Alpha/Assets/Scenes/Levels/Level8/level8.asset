@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: level8
+  m_EditorClassIdentifier: 
+  lName: The Fight Continues
+  description: Easy isn't always simple
+  lImage: {fileID: 21300000, guid: 296a80c0a469ea84391de22180c34b1b, type: 3}
+  wayPointLimits: 0b0000000c0000000d000000
+  dragoinRewards: 0f000000140000002d000000
+  thoughts: '"This doesn''t look that hard, does it..."'
+  smalHint: '"If I could somehow avoid them..."'
+  hugeHint: '"This time I''d go from top to bottom"'
+  firstWaypointToPlace: {x: -7, y: -3.5}

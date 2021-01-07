@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: level2
+  m_EditorClassIdentifier: 
+  lName: The Path of Death
+  description: Every path leads you home
+  lImage: {fileID: 21300000, guid: d45101b22898d704da046847168238a2, type: 3}
+  wayPointLimits: 060000000700000008000000
+  dragoinRewards: 02000000060000000c000000
+  thoughts: '"My head doesn''t like lava, guide me carefully"'
+  smalHint: '"My body is immune to lava, my head is not"'
+  hugeHint: '"I don''t see a light at the end of this tunel. Just food" '
+  firstWaypointToPlace: {x: -6, y: -3.5}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: Level10
+  m_EditorClassIdentifier: 
+  lName: The King's Chessboard
+  description: What is lost is often found
+  lImage: {fileID: 21300000, guid: b44fc5d57dec1b94a867af0756353394, type: 3}
+  wayPointLimits: 0f0000001100000013000000
+  dragoinRewards: 19000000230000002d000000
+  thoughts: '"So this is how Dragon''s Gambit looks like"'
+  smalHint: '"Those shrink fruits on the right are strange. Eating them might cause
+    something to happen"'
+  hugeHint: '"It''s four sequences, don''t forget about the last essence on the right"'
+  firstWaypointToPlace: {x: 3, y: 0.5}

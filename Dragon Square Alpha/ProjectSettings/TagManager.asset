@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Head
+  - ShrinkFood
+  - Enemy
+  - Lava
+  - Wall
+  - WayPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dragon
+  - Food
+  - Lava
+  - Enemy
+  - SolidBlock
+  - DragonHead
+  - EmptyBlock
+  - DragonHeadRadius
+  - DragonWithoutCollision
+  - Planning
+  - PhasingEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Tiles
+    uniqueID: 268441957
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Food
+    uniqueID: 2691739249
+    locked: 0
+  - name: Dragon
+    uniqueID: 2191847299
+    locked: 0
+  - name: Enemy
+    uniqueID: 2114752253
+    locked: 0
+  - name: UI
+    uniqueID: 2006263809
+    locked: 0

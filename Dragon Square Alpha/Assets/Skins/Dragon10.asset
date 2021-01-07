@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon10
+  m_EditorClassIdentifier: 
+  skinName: Caterpillar
+  dragoinPrice: 80
+  baseSprites:
+  - {fileID: 21300000, guid: 3e3ace40d5031de4f982f3fbdca4ec6a, type: 3}
+  - {fileID: 21300000, guid: 4e851ea6e68aafe4db0ab0cef44d3f34, type: 3}
+  - {fileID: 21300000, guid: 4e442b560cfca884b9ae7cfe9651a617, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  - {fileID: 21300000, guid: 8e60327d380d26a478824b771f3d6fe2, type: 3}
+  - {fileID: 21300000, guid: f73254c5db22fca4aad03739deb6f77e, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: 634aa7c181da6494c8f4232467bd52e0, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon1
+  m_EditorClassIdentifier: 
+  abilities: 03000000
+  skinName: OG Dragon
+  dragoinPrice: 0
+  baseSprites:
+  - {fileID: 21300000, guid: 06280a87ea8550440b9a6eb368026ad5, type: 3}
+  - {fileID: 21300000, guid: c6846ac0f82aed04d9a6dddb009d32c6, type: 3}
+  - {fileID: 21300000, guid: 7d48c9de99f2ff04289767cb6f6f7991, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: b258b559938d34d43bb765b3ecf59e19, type: 3}
+  - {fileID: 21300000, guid: b011d44fa744aaa4fb1cb4e4d11e36bf, type: 3}
+  - {fileID: 21300000, guid: 1131750bbf936ef4baf8155eb606a9c4, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: 5031012ed18acd446a4856a69097fb48, type: 3}

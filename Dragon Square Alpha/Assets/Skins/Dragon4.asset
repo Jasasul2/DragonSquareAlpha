@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon4
+  m_EditorClassIdentifier: 
+  skinName: Snek
+  dragoinPrice: 25
+  baseSprites:
+  - {fileID: 21300000, guid: 9bf3e9630ed46cd45a9d11a1ffba0be1, type: 3}
+  - {fileID: 21300000, guid: 015b2f2cf80b6554eabd6c29cad4d1af, type: 3}
+  - {fileID: 21300000, guid: 5907e6aaf234f9446b297c029df44034, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: 4a2540cc2d9367b40a90a7d631831b42, type: 3}
+  - {fileID: 21300000, guid: 332525a3390cc8b4fbb1e2ed5732b341, type: 3}
+  - {fileID: 21300000, guid: dd023d2b0482b6c42a16a9cb16d78bb9, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: 11444701b0d48604e9bd1774f22ae1e6, type: 3}

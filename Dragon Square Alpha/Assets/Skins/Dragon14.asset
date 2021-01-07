@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon14
+  m_EditorClassIdentifier: 
+  abilities: 01000000
+  skinName: Mechanical
+  dragoinPrice: 80
+  baseSprites:
+  - {fileID: 21300000, guid: d28e61012fb29794da2b46640084461b, type: 3}
+  - {fileID: 21300000, guid: e3f7ed9ff9b1ceb45a7bf492bb67ba2f, type: 3}
+  - {fileID: 21300000, guid: f5a9c20d18d8e274a8a95d066ace040d, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: f08bed8eea5376d458c3b1712dcbd509, type: 3}
+  - {fileID: 21300000, guid: 7b64f86540504704fb61a6abf283dab4, type: 3}
+  - {fileID: 21300000, guid: 97b3f4eba51f2a2469e02cfb161d09b4, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: a8b9616665315e440a0bf535d1c37ca3, type: 3}

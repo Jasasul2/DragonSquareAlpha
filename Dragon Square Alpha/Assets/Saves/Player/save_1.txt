@@ -1,0 +1,1 @@
+{"skinIndex":0,"stars":39,"dragoins":173,"mainHex":"610DD8","secHex":"2CDA73","ums":[0,0,0,0,0],"sms":[0,0,0,0,0],"trail":false,"paint":false,"pulse":false,"fade":false,"use":[true,true,true,true,true,true,true,true],"sse":[false,false,true,false,false,false,false,false]}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon2
+  m_EditorClassIdentifier: 
+  skinName: Bombdragon
+  baseSprites:
+  - {fileID: 21300000, guid: ad2d9c9c4b062be448187172340d0ccd, type: 3}
+  - {fileID: 21300000, guid: 122505fe31f42674aa6042eabfbc18ba, type: 3}
+  - {fileID: 21300000, guid: 744f7b183cceae34a91262746f636c4a, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: 7c0dbb8aa83ad6340ba9b3d6d30bbe20, type: 3}
+  - {fileID: 21300000, guid: f6dd0f2d6fda3354aaba71c04f746bd8, type: 3}
+  - {fileID: 21300000, guid: 29d2992b91d757349b058fb99353abdf, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: 5c3b21593bfe66742a9398a53af291e6, type: 3}

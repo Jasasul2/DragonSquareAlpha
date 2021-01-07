@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b5659eb32a02849a0c067e6577dab2, type: 3}
+  m_Name: level4
+  m_EditorClassIdentifier: 
+  lName: The First Challenge
+  description: Fear is a path to the dark side
+  lImage: {fileID: 21300000, guid: b8402db39146e7a4087255c13b2061c1, type: 3}
+  wayPointLimits: 07000000090000000a000000
+  dragoinRewards: 040000000c00000024000000
+  thoughts: '"Woah this looks hard, but it''s easy. You can click on each food to
+    see how much it''s gonna change my lenght"'
+  smalHint: '"Rememeber, it''s about counting how much of which food type I can eat"'
+  hugeHint: '"I don''t have to eat all the essences first tho" '
+  firstWaypointToPlace: {x: -7, y: -3.5}

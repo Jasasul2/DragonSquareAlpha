@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbeb86410f324a4687f1dfdd24b3ae3, type: 3}
+  m_Name: Dragon19
+  m_EditorClassIdentifier: 
+  skinName: Screwdragon
+  dragoinPrice: 50
+  baseSprites:
+  - {fileID: 21300000, guid: 5301cfe551ccd9d4788703081b775ab0, type: 3}
+  - {fileID: 21300000, guid: 8768e85ee7a45984c97fd036d0438cac, type: 3}
+  - {fileID: 21300000, guid: 57b214a5204445549a1a9c9cfa4b07ea, type: 3}
+  midSprites:
+  - {fileID: 21300000, guid: 21b02dd88adffaa4a877c1286a2ef307, type: 3}
+  - {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
+  - {fileID: 21300000, guid: dac6625948a23ac489e355096e6ac255, type: 3}
+  headDetailSprite: {fileID: 21300000, guid: c7ba1bf5bce085046b8792802b996203, type: 3}
